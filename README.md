@@ -1,57 +1,44 @@
-# ⚡ SYSTEM_ANALYST_NODE: KAMILLA [v.2026.4]
-
-![Banner](https://capsule-render.vercel.app/render?type=soft&color=00d4ff&height=120&section=header&text=ANALYSIS%20|%20DESIGN%20|%20AUTOMATION&fontSize=40&animation=twinkling)
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=<ТВОЙ_НИК>&label=PROFILE%20VIEWS&color=00d4ff&style=flat-square" alt="Views" />
-  <img src="https://img.shields.io/badge/STATUS-READY_FOR_INTERNSHIP-brightgreen?style=flat-square" alt="Status" />
-  <img src="https://img.shields.io/badge/LOCATION-MOSCOW-blue?style=flat-square" alt="Location" />
+  <img width="400" height="250" src="https://github.com/vickiticy/vickiticy/blob/main/9dsD.gif"  alt="animated" />
 </p>
 
----
+### <p align="center">Привет, меня зовут Виктория! 👋</p>
 
-## 🛰️ SYSTEM OVERVIEW
-> **«Бизнес-требования — это сырье. Системный анализ — это завод по производству ясности.»**
+<div align="center">
 
-Я — аналитик с инженерным прошлым. Мой мозг натренирован 9 годами спорта и расчетами авиационных гидросистем. Я не пишу «тексты», я проектирую логику, которая не падает.
+  <a href="">[![Telegram](https://img.shields.io/badge/-Telegram-27A7E7?style=for-the-badge&logo=telegram)](https://t.me/Zimina_Victoria)</a>
+  <a href="">[![WHATSAPP](https://img.shields.io/badge/-WHATSAPP-28D146?style=for-the-badge&logo=whatsapp&logoColor=FFFFFF)](https://wa.me/9601904218)</a>
 
-### 🛠 TECH_STACK_MATRIX
-| Layer | Technologies |
-| :--- | :--- |
-| **Logic & Flow** | `BPMN 2.0` `UML` `C4 Model` `IDEF0` |
-| **Data & Core** | `PostgreSQL` `SQL (DML/DDL)` `Python (Pandas)` `JSON/XML` |
-| **Communication** | `REST API` `gRPC basics` `Swagger (OAS 3.0)` `Postman` |
-| **Infrastructure** | `Git` `Jira` `Confluence` `Docker (Overview)` |
+</div>
 
----
+* Занимаюсь аналитикой данных 📈
+* Готова к сотрудничеству 🤝
+* Мои проекты 👇: 
 
-## 📂 ACTIVE_PROJECTS (Deep Dive)
+|Название проекта| Описание проекта| Стек|
+|----------------|-----------------|-----|
+|Проект 1  Исследование нескольких аспектов мобильной игры  (__[github](https://github.com/vickiticy/for_project_1)__)|Выбор, расчет продуктовых метрик (Conversion Rate, ARPPU и др.). Проверка гипотез, анализ результатов А/B-теста (тест на независимость Хи-квадрат, T-test, Bootstrap).|pandas,numpy,seaborn,  matplotlib,scipy,requests|
+|Проект 2 Анализ продуктовых метрик  (__[github](https://github.com/vickiticy/for_project_2)__)|Расчет и анализ продуктовых метрик(MAU, ROMI, CR).Присвоение пользователям когорты и получение конверсии из установки в покупку в течение 7 дней. Поиск этапа воронки, на котором отваливается бОльшая часть клиентов.|pandas,plotly,requests,Tableau|
+|Проект 3 RFM-анализ  (__[github](https://github.com/vickiticy/for_project_3)__)|Сегментация пользователей, проведение RFM-анализа|pandas|
+|Проект 4 E-commerce  (__[github](https://github.com/vickiticy/for_project_4)__)|Анализ поведения пользователей, работы доставки товаров, когортный анализ пользователей, RFM-анализ|pandas,seaborn,matplotlib,requests|
+|Проекты SQL  (__[github](https://github.com/vickiticy/for_SQL)__)|Решение задач по группировке, агрегатным функциям, объединению таблиц, преобразованию типов данных, подзапросам, представлениям, созданию таблиц, ETL(Python+SQL), оконным функциям, визуализации в Redash|SQL,ClickHouse,PostgreSQL,  Redash,pandas,pandahouse,  numpy,seaborn,matplotlib|
 
-### 🛸 Project: AERO_AUTOMATION [TOP_SECRET]
-**Кейс:** Оптимизация производственной линии авиационных компонентов.
-- **Problem:** Высокий процент брака из-за несогласованности этапов.
-- **Solution:** Спроектирована шина данных между ЧПУ и ERP.
-- **Artifacts:** `[BPMN_Process_Map]` `[ER_Schema]`
-- [ПОСМОТРЕТЬ КЕЙС ➜](./projects/aero)
 
-### 🎓 Project: EDTECH_EVOLUTION (Uchi.ru Case)
-**Кейс:** Проектирование микросервиса «Аналитика для родителей».
-- **Impact:** Спроектированы API-контракты для мобильного приложения.
-- **Tech:** `REST` `JSON` `Sequence Diagrams`
-- [ПОСМОТРЕТЬ КЕЙС ➜](./projects/edtech)
 
----
+<hr>
 
-## 🛠️ LIVE_ANALYSIS_PREVIEW
-*Пример того, как я вижу взаимодействие систем в 2026 году:*
+###  🛠️ Languages and Tools :  
 
-```mermaid
-graph LR
-    A[Client_Request] -- "REST /v1/data" --> B{API_GATEWAY}
-    B -- "Auth_Check" --> C[Identity_Service]
-    B -- "Validation" --> D[Business_Logic_Node]
-    D -- "Async_Event" --> E((Message_Broker))
-    D -- "SQL_Query" --> F[(Main_DB)]
-    
-    style B fill:#00d4ff,stroke:#333,stroke-width:2px
-    style F fill:#00ff88,stroke:#333,stroke-width:2px
+
+
+![Python](https://img.shields.io/badge/-Python-FFF?style=for-the-badge&logo=python)
+![Jupyter](https://img.shields.io/badge/-Jupyter_Notebook-FFF?style=for-the-badge&logo=Jupyter)
+![Clickhouse](https://img.shields.io/badge/-Clickhouse-FFF?style=for-the-badge&logo=Clickhouse)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-FFF?style=for-the-badge&logo=PostgreSQL)
+![SQL](https://img.shields.io/badge/-SQL-00A4EF?style=for-the-badge&logo=SQL)
+![Redash](https://img.shields.io/badge/-Redash-E44D26?style=for-the-badge&logo=Redash)
+![EXCEL](https://img.shields.io/badge/-EXCEL-FF?style=for-the-badge&logo=EXCEL)
+![EXCEL](https://img.shields.io/badge/-Google_Sheets-FFF?style=for-the-badge&logo=GoogleSheets)
+![GIT](https://img.shields.io/badge/-GIT-FFF?style=for-the-badge&logo=GIT)
+![API](https://img.shields.io/badge/-API-FF6600?style=for-the-badge&logo=API)
+![Airflow](https://img.shields.io/badge/-Airflow-77DDE7?style=for-the-badge&logo=AIRFLOW)
